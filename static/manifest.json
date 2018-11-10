@@ -1,0 +1,38 @@
+{
+  "name": "스팀잇 펫 연구소",
+  "short_name": "스팀잇 펫 연구소",
+  "description": "스팀잇 펫 연구소입니다.",
+  "theme_color": "#1976d2",
+  "background_color": "#fcfcff",
+  "display": "standalone",
+  "Scope": "/pet",
+  "start_url": "/pet/index.html",
+  "icons": [
+    {
+      "src": "32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
