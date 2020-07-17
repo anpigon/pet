@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "remarkable": "^1.7.1",
     "steem": "^0.7.1",
     "vue": "^2.5.2",
